@@ -52,7 +52,7 @@
 }
 
 .sec1-wrap {
-    background-image: url(/v3/image/1234\ \(1\).png);
+    background-image: url(./image/1234\ \(1\).png);
     width: 1440px;
     height: 700px;
     margin-top: 2px;
